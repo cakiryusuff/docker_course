@@ -1,0 +1,11 @@
+{
+  "name": "section_6",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "*",
+    "redis": "2.8.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
